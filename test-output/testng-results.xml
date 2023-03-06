@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-06T15:38:27 IST" name="Default suite" finished-at="2023-03-06T15:38:45 IST" duration-ms="18699">
+    <groups>
+    </groups>
+    <test started-at="2023-03-06T15:38:27 IST" name="Default test" finished-at="2023-03-06T15:38:45 IST" duration-ms="18699">
+      <class name="testPages.TestMenPage">
+        <test-method is-config="true" signature="initilBrowser()[pri:0, instance:testPages.TestMenPage@23c30a20]" started-at="2023-03-06T15:38:27 IST" name="initilBrowser" finished-at="2023-03-06T15:38:35 IST" duration-ms="8097" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initilBrowser -->
+        <test-method signature="testDropdown()[pri:0, instance:testPages.TestMenPage@23c30a20]" started-at="2023-03-06T15:38:35 IST" name="testDropdown" finished-at="2023-03-06T15:38:45 IST" duration-ms="10557" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDropdown -->
+      </class> <!-- testPages.TestMenPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
